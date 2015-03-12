@@ -13,10 +13,10 @@ MERK! Ingen blir opptatt som oversetter eller gitt tilgang kun ved å trykke 'Jo
 
 Vær også oppmerksom på at noen filer kan inneholde feil og mangler, men dette er noe vi kontinuerlig jobber med så langt tiden tillater oss. Men vi er også avhengige av tilbakemeldinger og gjerne oppdaterte filer for å gjøre de så bra som mulig, vi har med dagens frivillige ressurser ingen mulighet til å gå igjennom og oppdatere alle filer fort nok alene.
 
-##### Installasjon av språkpakker
+#### Installasjon av språkpakker
 Språkpakkene kan fra og med Joomla 2.5.7 lastes ned og installeres direkte fra administrasjonen i Joomlasiden din, her vil du da også bli varslet om, og kunne installere oppdateringer av språkpakkene når dette utgis. Fra og med Joomla 3.0 kan man også installere språkpakker direkte under installasjonen av systemet.
 
-##### Pakking og utgivelse
+#### Pakking og utgivelse
 
 **ALLTID - VIKTIG**
 
@@ -56,7 +56,7 @@ site_nb-NO                      -> Innholdet kopieres over til '/language/nb-NO'
 Alt pakkes på nytt og utgis med filnavn nb-NO_Joomla_2.5.x-Stable-Full-Distro.zip (x erstattes med riktig del-versjonsnummer, evt. Stable med RC f.eks om aktuelt).
 
 
-##### TODO - Huskeliste
+#### TODO - Huskeliste
 * Det finnes en miks av visning og utforming i bl.a. admin/com_content som det bør ryddes opp i, samt dårlig formulerte beskrivelser. Hele filen bør samtidig sjekkes mot original.
 * 'Paginering' bør endres. Er jo enkelt og greit 'Sidenavigering'.
 * 'Hurtiglager' burde nesten endres til mer folkelige og forståelige 'Mellomlager'.
