@@ -19,10 +19,12 @@ Språkpakkene kan fra og med Joomla 2.5.7 lastes ned og installeres direkte fra 
 ##### Pakking og utgivelse
 
 **ALLTID - VIKTIG**
+
 Alle nødvendige xml-filer ligger i mappene, husk bare på å oppdatere utgivelsesdato og evt. versjon før utsjekking og pakking gjøres. Om det i noen utgivelse legges til nye språkfiler må man huske å legge disse til også i install.xml i samme mappe.
 
 
 **PAKKING KOMPLETT SPRÅKPAKKE**
+
 Pakking for 1.6 og nyere skiller seg litt fra 1.5 ved at det nå må opprettes to zip-filer først. En for admin og en for brukerdelen, som navngis som følgende:
 
 admin_nb-NO.zip (Pakk mappen admin_nb-NO direkte til zip-fil.)
@@ -36,9 +38,11 @@ nb-NO_joomla_lang_full_2.5.0v1.zip
 - v1 = Pakkeversjon
 
 **OPPDATERING AV OPPDATERINGSSERVERENS XML-FILERE**
+
 Må skrives ...
 
 **PAKKING KOMPLETT NORSK JOOMLA! 2.5+**
+
 Komplett engelsk pakke av Joomla lastes ned og pakkes ut lokalt.
 
 Kopier over de norske filene:
