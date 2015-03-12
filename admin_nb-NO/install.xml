@@ -216,7 +216,6 @@
     <filename>nb-NO.tpl_hathor.sys.ini</filename>
     <filename>nb-NO.tpl_isis.ini</filename>
     <filename>nb-NO.tpl_isis.sys.ini</filename>
-    <filename>index.html</filename>
     <filename file="meta">nb-NO.xml</filename>
     <filename file="meta">install.xml</filename>
   </files>
