@@ -4,7 +4,7 @@ Norwegian Core Translations
 This is the Norwegian Core language project, this project has Norwegian as it's natural language - please contact us if you need English information about it.
 
 Det Norske oversettelsesprosjektet for Joomla-kjernen
-=============
+======
 
 Dette er prosjektsiden for norske oversettelser for Joomla-kjernen, som tilbyr Norsk bokmål, Norsk Nynorsk og Nordsamisk (?).
 
