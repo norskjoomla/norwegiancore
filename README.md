@@ -13,11 +13,13 @@ Oversettere som vil bidra med oversettelse av kjernen må ha vist at de beherske
 
 Vær også oppmerksom på at noen filer kan inneholde feil og mangler, men dette er noe vi jobber med så langt tiden tillater oss. Men vi er også avhengige av tilbakemeldinger og gjerne oppdaterte filer, for å kunne gjøre de så bra som mulig. Vi har med dagens frivillige ressurser ingen mulighet til å gå igjennom og oppdatere alle filer fort nok alene.
 
+
 ### Installasjon av språkpakker
 
 Språkpakkene kan fra og med Joomla 2.5.7 lastes ned og installeres direkte fra administrasjonen i Joomlasiden din, her vil du da også bli varslet om, og kunne installere oppdateringer av språkpakkene når dette utgis.
 
 Fra og med Joomla 3.0 kan man også installere språkpakker direkte under siste trinn i installasjonen av systemet.
+
 
 ### Pakking og utgivelse
 
@@ -45,6 +47,7 @@ Pakken navngis som **nb-NO_joomla_lang_full_2.5.0v1.zip**, hvor **2.5.0** er Joo
 
 **MERK!** Pakkenavn kan ikke avvike fra standard, ettersom dette brukes av skripter på sentral oppdateringsserver.
 
+
 #### Pakking komplett norsk Joomla! 2.5+
 
 Komplett engelsk pakke av Joomla lastes ned og pakkes ut lokalt.
@@ -69,4 +72,5 @@ Alt pakkes på nytt og utgis med filnavn **nb-NO_Joomla_2.5.x-Stable-Full-Distro
 * På **Rediger menypunkt** bør feltbeskrivelsen **Merk** endres til **Merknad** eller annet. Samme gjelder på moduler hvor samme felt og funksjon bruker **Kommentar** som beskrivelse.
 * Sjekk hvorfor det er oversatt til **Avanserte valg** på menypunktbehandling.
 * Sjekk og rydd opp i miks av **Skriv inn**, **Angi** og **Fyll inn**. Personlig foretrekker jeg **Fyll inn** ettersom man kan fylle feltene på flere måter (skrive, klip og lim, kopier og lim).
+
 
