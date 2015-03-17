@@ -64,7 +64,7 @@ Alt pakkes på nytt og utgis med filnavn **nb-NO_Joomla_2.5.x-Stable-Full-Distro
 
 
 ### TODO - Huskeliste
-* Det finnes en miks av visning og utforming i bl.a. admin/com_content som det bør ryddes opp i, samt dårlig formulerte beskrivelser. Hele filen bør samtidig sjekkes mot original.
+* Det finnes en miks av visning og utforming i bl.a. **admin/com_content** som det bør ryddes opp i, samt dårlig formulerte beskrivelser. Hele filen bør samtidig sjekkes mot original.
 * **Paginering** bør endres. Er jo enkelt og greit **Sidenavigering**.
 * **Hurtiglager** burde nesten endres til mer folkelige og forståelige **Mellomlager**.
   - **Innholdet mellomlagres** vs. **Innholdet hurtiglagres** ...?!
