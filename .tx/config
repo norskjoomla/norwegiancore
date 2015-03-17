@@ -1,6 +1,6 @@
 [main]
 host = https://www.transifex.com
-lang_map = en_GB: en-GB, nb_no: nb-NO, nn_NO: nn-NO, se: se-XX
+lang_map = en_GB: en-GB, nb_NO: nb-NO, nn_NO: nn-NO, se: se-XX
 minimum_perc = 0
 
 
