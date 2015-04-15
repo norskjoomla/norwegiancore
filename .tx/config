@@ -4,30 +4,6 @@ lang_map = en_GB: en-GB, nb_NO: nb-NO, nn_NO: nn-NO, se: se-XX
 minimum_perc = 0
 
 
-; install file
-
-[norskjoomla3.install-ini]
-file_filter = installation_<lang>/<lang>.ini
-; source_file = installation_en-GB/en-GB.ini
-source_lang = en_GB
-type = INI
-
-
-; Duplicate file, same content for site and admin folder.
-; It will be duplicated when downloading
-
-[norskjoomla3.admin-lib_joomla]
-file_filter = admin_<lang>/<lang>.lib_joomla.ini
-; source_file = admin_en-GB/en-GB.lib_joomla.ini
-source_lang = en_GB
-type = INI
-
-[norskjoomla3.admin-lib_joomla]
-file_filter = site_<lang>/<lang>.lib_joomla.ini
-source_lang = en_GB
-type = INI
-
-
 ; admin files
 
 [norskjoomla3.admin-ini]
@@ -1707,3 +1683,26 @@ file_filter = site_<lang>/<lang>.tpl_protostar.sys.ini
 source_lang = en_GB
 type = INI
 
+
+; Duplicate file, same content for site and admin folder.
+; It will be duplicated when downloading
+
+[norskjoomla3.admin-lib_joomla]
+file_filter = site_<lang>/<lang>.lib_joomla.ini
+; source_file = site_en-GB/en-GB.lib_joomla.ini
+source_lang = en_GB
+type = INI
+
+[norskjoomla3.admin-lib_joomla]
+file_filter = site_<lang>/<lang>.lib_joomla.ini
+source_lang = en_GB
+type = INI
+
+
+; install file
+
+[norskjoomla3.install-ini]
+file_filter = installation_<lang>/<lang>.ini
+; source_file = installation_en-GB/en-GB.ini
+source_lang = en_GB
+type = INI
