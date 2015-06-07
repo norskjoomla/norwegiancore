@@ -1311,6 +1311,12 @@ file_filter = site_<lang>/<lang>.finder_cli.ini
 source_lang = en_GB
 type = INI
 
+[norskjoomla3.site-lib_fof]
+file_filter = site_<lang>/<lang>.lib_fof.ini
+; source_file = site_en-GB/en-GB.lib_fof.ini
+source_lang = en_GB
+type = INI
+
 [norskjoomla3.site-lib_fof_sys]
 file_filter = site_<lang>/<lang>.lib_fof.sys.ini
 ; source_file = site_en-GB/en-GB.lib_fof.sys.ini
