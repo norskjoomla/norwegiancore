@@ -2,8 +2,8 @@
 <extension version="3.4" client="site" type="language" method="upgrade">
   <name>Norsk bokmål (nb-NO)</name>
   <tag>nb-NO</tag>
-  <version>3.4.1.1</version>
-  <creationDate>2015-03-20</creationDate>
+  <version>3.4.2.1</version>
+  <creationDate>2015-06-30</creationDate>
   <author>Norsk Joomla!</author>
   <authorEmail>oversettelser@norskjoomla.no</authorEmail>
   <authorUrl>http://www.norskjoomla.no</authorUrl>
@@ -29,6 +29,7 @@
     <filename>nb-NO.files_joomla.sys.ini</filename>
     <filename>nb-NO.finder_cli.ini</filename>
     <filename>nb-NO.ini</filename>
+		<filename>nb-NO.lib_fof.ini</filename>
 		<filename>nb-NO.lib_fof.sys.ini</filename>
 		<filename>nb-NO.lib_idna_convert.sys.ini</filename>
     <filename>nb-NO.lib_joomla.ini</filename>
