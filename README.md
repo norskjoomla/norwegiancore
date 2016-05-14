@@ -65,12 +65,12 @@ Alt pakkes på nytt og utgis med filnavn **nb-NO_Joomla_2.5.x-Stable-Full-Distro
 
 ### TODO - Huskeliste
 * Det finnes en miks av visning og utforming i bl.a. **admin/com_content** som det bør ryddes opp i, samt dårlig formulerte beskrivelser. Hele filen bør samtidig sjekkes mot original.
-* **Paginering** bør endres. Er jo enkelt og greit **Sidenavigering**.
-* **Hurtiglager** burde nesten endres til mer folkelige og forståelige **Mellomlager**.
-  - **Innholdet mellomlagres** vs. **Innholdet hurtiglagres** ...?!
+* ~~**Paginering** bør endres. Er jo enkelt og greit **Sidenavigering**.~~
+* ~~**Hurtiglager** burde nesten endres til mer folkelige og forståelige **Mellomlager**.~~
+  ~~- **Innholdet mellomlagres** vs. **Innholdet hurtiglagres** ...?!~~
 * Sjekk navn og beskrivelser på moduler og programtillegg, er noe ukonsekvent.
-* På **Rediger menypunkt** bør feltbeskrivelsen **Merk** endres til **Merknad** eller annet. Samme gjelder på moduler hvor samme felt og funksjon bruker **Kommentar** som beskrivelse.
-* Sjekk hvorfor det er oversatt til **Avanserte valg** på menypunktbehandling.
+* ~~På **Rediger menypunkt** bør feltbeskrivelsen **Merk** endres til **Merknad** eller annet. Samme gjelder på moduler hvor samme felt og funksjon bruker **Kommentar** som beskrivelse.~~
+* ~~Sjekk hvorfor det er oversatt til **Avanserte valg** på menypunktbehandling.~~
 * Sjekk og rydd opp i miks av **Skriv inn**, **Angi** og **Fyll inn**. Personlig foretrekker jeg **Fyll inn** ettersom man kan fylle feltene på flere måter (skrive, klip og lim, kopier og lim).
 
 
