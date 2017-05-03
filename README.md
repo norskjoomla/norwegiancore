@@ -1,4 +1,7 @@
-Norwegian Core Translations
+Moved to Crowdin: https://crowdin.com/project/joomla-cms/nb#
+=============
+
+OUTDATED - Norwegian Core Translations
 =============
 
 This is the Norwegian Core language project, this project has Norwegian as it's natural language - please contact us if you need English information about it.
